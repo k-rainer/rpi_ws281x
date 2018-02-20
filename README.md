@@ -7,12 +7,12 @@ Preliminary support is now included for SK6812RGBW LEDs (yes, RGB + W)
 
 ### Easy Installation
 
-git clone https://github.com/k-rainer/rpi_ws281x.git --branch sk6812
-cd rpi_ws281x
-scons
-cd python/
-python setup.py install
-python examples/SK6812_strandtest.py
+git clone https://github.com/k-rainer/rpi_ws281x.git --branch sk6812  
+cd rpi_ws281x  
+scons  
+cd python/  
+python setup.py install  
+python examples/SK6812_strandtest.py  
 
 ### Background:
 
